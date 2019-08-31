@@ -6,7 +6,7 @@ function generateRandomString($length) {
 
 echo "IG check username available\n";
 echo "Author @Abby Erlangga\n";
-echo "Follow ig @xbyzs\n";
+echo "Don't forget to follow ig @xbyzs\n";
 echo "\n";
 
 $huruf = readline("Jumlah Huruf ? : ");
